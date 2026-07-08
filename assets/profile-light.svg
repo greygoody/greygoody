@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 344" role="img" aria-labelledby="title description">
+  <title id="title">Systems, games, and automation.</title>
+  <desc id="description">Reliable software around explicit state, evidence, and closure. Senior Full Stack · Automation &amp; AI Platforms</desc>
+  <rect width="1200" height="344" rx="18" fill="#f7f7f8"/>
+  <line x1="72" y1="94" x2="1128" y2="94" stroke="#d9dce1"/>
+  <text x="72" y="64" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &apos;Liberation Mono&apos;, monospace" font-size="13" font-weight="600" letter-spacing="2.4" fill="#5267d8">GREYGOODY / QUIET SYSTEMS</text>
+  <text x="72" y="156" font-family="-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Helvetica, Arial, sans-serif" font-size="44" font-weight="650" letter-spacing="-1.2" fill="#161719">Systems, games, and automation.</text>
+  <text x="72" y="198" font-family="-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#667085">Reliable software around explicit state, evidence, and closure.</text>
+  <text x="72" y="252" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &apos;Liberation Mono&apos;, monospace" font-size="12" font-weight="600" letter-spacing="1.5" fill="#667085">CURRENT OBJECTIVE</text>
+  <text x="284" y="252" font-family="-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Helvetica, Arial, sans-serif" font-size="18" font-weight="550" fill="#161719">Senior Full Stack · Automation &amp; AI Platforms</text>
+  <line x1="72" y1="278" x2="1128" y2="278" stroke="#d9dce1"/>
+  <text x="72" y="316" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &apos;Liberation Mono&apos;, monospace" font-size="13" letter-spacing="1.1" fill="#667085">RUST</text>
+  <text x="246" y="316" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &apos;Liberation Mono&apos;, monospace" font-size="13" letter-spacing="1.1" fill="#667085">TYPESCRIPT</text>
+  <text x="420" y="316" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &apos;Liberation Mono&apos;, monospace" font-size="13" letter-spacing="1.1" fill="#667085">PYTHON</text>
+  <text x="594" y="316" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &apos;Liberation Mono&apos;, monospace" font-size="13" letter-spacing="1.1" fill="#667085">UNREAL ENGINE</text>
+  <text x="768" y="316" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &apos;Liberation Mono&apos;, monospace" font-size="13" letter-spacing="1.1" fill="#667085">LINUX</text>
+  <text x="942" y="316" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &apos;Liberation Mono&apos;, monospace" font-size="13" letter-spacing="1.1" fill="#667085">DOCKER</text>
+</svg>
