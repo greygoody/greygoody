@@ -8,9 +8,9 @@
 
 <sub>01 / PROFILE</sub>
 
-I build game, application, and infrastructure systems with **Rust**, **TypeScript**, **Python**, and **Unreal Engine**. My current focus is reliable automation and agentic workflows: explicit authority, inspectable state, evidence-producing execution, and clear closure.
+I am a game, application, and systems developer working with **Rust**, **TypeScript**, **Python**, and **Unreal Engine**. I focus on explicit state, testable boundaries, observable execution, and software another developer can operate without continuous interpretation.
 
-**Current objective:** Senior Full Stack Software Engineer · Automation & AI Platforms
+**Current objective:** Seeking a full-stack engineering role in automation and AI platforms.
 
 ---
 
@@ -18,11 +18,11 @@ I build game, application, and infrastructure systems with **Rust**, **TypeScrip
 
 | State | System | Current boundary |
 | --- | --- | --- |
-| `active` | **Shelf** | Deterministic item identity, versioned manifests, and atomic inventory transitions. |
-| `prototype` | **Orb** | Typed communication and capability routing for distributed agentic work. |
-| `closure` | **Codectx** | Branch-scoped task state, proof commands, and a read-only engineering HUD. |
+| `active` | **Shelf** | Versioned item identity and inventory state with deterministic, testable transitions. |
+| `prototype` | **Orb** | A typed communication layer for agents and distributed automation. |
+| `closure` | **Codectx** | Branch-scoped task state, proof commands, and a read-only engineering context. |
 
-<sub>Status labels are literal. They describe current maturity rather than decorating every experiment as production software.</sub>
+<sub>Status labels describe current maturity. They are not substitutes for evidence.</sub>
 
 ---
 
@@ -30,10 +30,10 @@ I build game, application, and infrastructure systems with **Rust**, **TypeScrip
 
 `Rust` · `TypeScript` · `Python` · `Unreal Engine` · `Linux` · `Docker` · `Git`
 
-Event-driven systems · developer tooling · self-hosted infrastructure · agent evaluation · test-driven workflows
+Event-driven systems · agentic workflows · developer tooling · self-hosted infrastructure
 
 ---
 
 <sub>04 / OPERATING RULE</sub>
 
-Start with the smallest useful boundary. Encode the contract. Test state changes. Run it repeatedly. Measure the outcome. Delete whatever does not improve cycle time, escaped defects, review rework, or closure latency.
+Keep the boundary small. Encode the contract. Test state changes. Record evidence. Delete what does not improve the outcome.
