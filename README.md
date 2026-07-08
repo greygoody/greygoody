@@ -37,13 +37,3 @@ Event-driven systems · developer tooling · self-hosted infrastructure · agent
 <sub>04 / OPERATING RULE</sub>
 
 Start with the smallest useful boundary. Encode the contract. Test state changes. Run it repeatedly. Measure the outcome. Delete whatever does not improve cycle time, escaped defects, review rework, or closure latency.
-
----
-
-<sub>PROFILE INTERFACE</sub>
-
-The header is generated from [`design/tokens.json`](./design/tokens.json). Rebuild both themes with:
-
-```sh
-npm run render
-```
