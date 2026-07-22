@@ -8,7 +8,7 @@
 
 I build systems, tools, and experiments around **explicit state**, **bounded authority**, **inspectable execution**, and **reproducible operation**.
 
-Most of my work uses **Rust**, **TypeScript**, **Python**, **PostgreSQL**, **Linux/NixOS**, **Docker**, and **Unreal Engine**.
+`Rust` · `TypeScript` · `Python` · `PostgreSQL` · `Linux/NixOS` · `Docker` · `Unreal Engine`
 
 ---
 
@@ -20,18 +20,5 @@ Most of my work uses **Rust**, **TypeScript**, **Python**, **PostgreSQL**, **Lin
 | [**JustBoard**](https://github.com/greygoody/JustBoard) | Early public proof board for command evidence, checks, and development-task state. |
 
 ---
-
-## Preparing for public release
-
-| Project | Intended public boundary |
-| --- | --- |
-| **Energy Ops Intel** | A sanitized operational-intelligence workflow with evidence-linked proposals, durable review state, and explicit operator approval. |
-| **Digi-Agent** | A bounded commerce workflow for preparing and reviewing marketplace listing proposals using fictional data and no live marketplace writes. |
-
-These repositories will become public only after their demonstrations, documentation, fixtures, and secret-history checks are complete. A repository being visible is not the same thing as its claims being proven. Software has suffered enough from that confusion.
-
----
-
-## Working rules
 
 Inspect before mutation. Keep authority explicit. Bind decisions to exact inputs. Test state changes. Verify effects before claiming closure.
