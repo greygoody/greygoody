@@ -1,39 +1,37 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg">
-  <img alt="Greygoody — systems, games, and automation" src="./assets/profile-light.svg" width="100%">
+  <img alt="Greygoody — systems, tools, and automation" src="./assets/profile-light.svg" width="100%">
 </picture>
 
 <br>
 
-<sub>01 / PROFILE</sub>
+I build systems, tools, and experiments around **explicit state**, **bounded authority**, **inspectable execution**, and **reproducible operation**.
 
-I am a game, application, and systems developer working with **Rust**, **TypeScript**, **Python**, and **Unreal Engine**. I focus on explicit state, testable boundaries, observable execution, and software another developer can operate without continuous interpretation.
-
-**Current objective:** Seeking a full-stack engineering role in automation and AI platforms.
+Most of my work uses **Rust**, **TypeScript**, **Python**, **PostgreSQL**, **Linux/NixOS**, **Docker**, and **Unreal Engine**.
 
 ---
 
-<sub>02 / CURRENT SYSTEMS</sub>
+## Public work
 
-| State | System | Current boundary |
-| --- | --- | --- |
-| `active` | **Shelf** | Versioned item identity and inventory state with deterministic, testable transitions. |
-| `prototype` | **Orb** | A typed communication layer for agents and distributed automation. |
-| `closure` | **Codectx** | Branch-scoped task state, proof commands, and a read-only engineering context. |
-
-<sub>Status labels describe current maturity. They are not substitutes for evidence.</sub>
+| Project | Current boundary |
+| --- | --- |
+| [**Codectx**](https://github.com/greygoody/codectx) | Deterministic repository context for humans and coding agents: Git state, task focus, project commands, review output, and machine-readable handoff. |
+| [**JustBoard**](https://github.com/greygoody/JustBoard) | Early public proof board for command evidence, checks, and development-task state. |
 
 ---
 
-<sub>03 / ENGINEERING SURFACE</sub>
+## Preparing for public release
 
-`Rust` · `TypeScript` · `Python` · `Unreal Engine` · `Linux` · `Docker` · `Git`
+| Project | Intended public boundary |
+| --- | --- |
+| **Energy Ops Intel** | A sanitized operational-intelligence workflow with evidence-linked proposals, durable review state, and explicit operator approval. |
+| **Digi-Agent** | A bounded commerce workflow for preparing and reviewing marketplace listing proposals using fictional data and no live marketplace writes. |
 
-Event-driven systems · agentic workflows · developer tooling · self-hosted infrastructure
+These repositories will become public only after their demonstrations, documentation, fixtures, and secret-history checks are complete. A repository being visible is not the same thing as its claims being proven. Software has suffered enough from that confusion.
 
 ---
 
-<sub>04 / OPERATING RULE</sub>
+## Working rules
 
-Keep the boundary small. Encode the contract. Test state changes. Record evidence. Delete what does not improve the outcome.
+Inspect before mutation. Keep authority explicit. Bind decisions to exact inputs. Test state changes. Verify effects before claiming closure.
