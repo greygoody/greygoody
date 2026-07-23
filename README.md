@@ -6,7 +6,9 @@
 
 <br>
 
-I build systems, tools, and experiments around **explicit state**, **bounded authority**, **inspectable execution**, and **reproducible operation**.
+I build backend and AI automation systems with explicit state, deterministic interfaces, and reviewable execution.
+
+My main tools are Rust, TypeScript, Python, PostgreSQL, Docker, Linux, and NixOS.
 
 `Rust` · `TypeScript` · `Python` · `PostgreSQL` · `Linux/NixOS` · `Docker` · `Unreal Engine`
 
