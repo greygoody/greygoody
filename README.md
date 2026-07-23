@@ -19,7 +19,6 @@ My main tools are Rust, TypeScript, Python, PostgreSQL, Docker, Linux, and NixOS
 | Project | Current boundary |
 | --- | --- |
 | [**Codectx**](https://github.com/greygoody/codectx) | Deterministic repository context for humans and coding agents: Git state, task focus, project commands, review output, and machine-readable handoff. |
-| [**JustBoard**](https://github.com/greygoody/JustBoard) | Early public proof board for command evidence, checks, and development-task state. |
 
 ---
 
