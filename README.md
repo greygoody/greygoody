@@ -10,7 +10,6 @@ I build backend and AI systems, developer infrastructure, and tools for reliable
 
 My main tools are Rust, TypeScript, Python, PostgreSQL, Docker, Linux, and NixOS.
 
-`Rust` · `TypeScript` · `Python` · `PostgreSQL` · `Linux/NixOS` · `Docker` · `Unreal Engine`
 
 ---
 
