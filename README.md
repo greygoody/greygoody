@@ -18,7 +18,6 @@ My main tools are Rust, TypeScript, Python, PostgreSQL, Docker, Linux, and NixOS
 
 | Project | Focus |
 | --- | --- |
-| [**NixWitness**](https://github.com/greygoody/NixWitness) | Evidence-guided verification for Nix projects and NixOS systems, with precise evidence applicability and invalidation. |
 
 ---
 
