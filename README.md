@@ -14,5 +14,3 @@
 | --- | --- |
 
 ---
-
-Inspect before mutation. Bind decisions to exact inputs. Test state changes. Verify effects before claiming completion.
