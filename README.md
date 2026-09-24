@@ -1,4 +1,4 @@
-<img src="./assets/repo-sky.svg" alt="Greygoody repository sky — public repositories as ASCII stars" width="100%">
+<img src="./assets/repo-sky.svg" alt="Procedural ASCII repository sky" width="100%">
 
 <br>
 
