@@ -1,14 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.png">
-  <img alt="Greygoody header" src="./assets/profile-light.png" width="100%">
-</picture>
+<img src="./assets/repo-sky.svg" alt="Greygoody repository sky — public repositories as ASCII stars" width="100%">
 
 <br>
 
 systems, tools, automation, infrastructure
-
----
-
-## Selected public work
-
